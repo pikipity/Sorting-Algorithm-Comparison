@@ -1,0 +1,18 @@
+Algorithm 1 correct
+Algorithm 1 costs:
+    113.557s/1000 iterations
+
+Algorithm 2 correct
+Algorithm 2 costs:
+    93.443s/1000 iterations
+
+Algorithm 3 correct
+Algorithm 3 costs:
+    95.201s/1000 iterations
+
+Algorithm 4 correct
+Algorithm 4 costs:
+    94.088s/1000 iterations
+
+'sorted' function costs:
+    19.413s/1000 iterations
