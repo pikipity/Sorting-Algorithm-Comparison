@@ -7,7 +7,7 @@ Compare three different sorting algorithms introduced by ["Algorithms: Design an
 4. QuickSort Algorithm by using "median-of-three" pivot rule introduced in week 2 courses (sorting_algorithm_4)
 5. "sorted" build-in function of python which uses ["Timsort" algorithm](https://en.wikipedia.org/wiki/Timsort)
 
-Comparison results are shown in "result.txt" as shown below.
+After running 1000 times, time comparison results are shown in "result.txt" as shown below.
 
 ```
 Algorithm 1 correct
